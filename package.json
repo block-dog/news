@@ -39,7 +39,7 @@
     "react-dom": "16.4.1",
     "react-markdown": "^4.0.3",
     "react-router-dom": "4.3.1",
-    "react-router-hash-link": "1.2.0",
+    "react-router-hash-link": "1.2.2",
     "react-scripts": "1.1.4",
     "showdown": "^1.9.0",
     "styled-components": "3.3.3",
