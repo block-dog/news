@@ -34,7 +34,7 @@
     "passport-local": "1.0.0",
     "ramda": "^0.25.0",
     "rc-steps": "^3.3.0",
-    "react": "16.4.1",
+    "react": "16.14.0",
     "react-apollo": "2.1.9",
     "react-dom": "16.4.1",
     "react-markdown": "^4.0.3",
