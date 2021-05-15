@@ -27,7 +27,7 @@
     "lodash": "4.17.10",
     "mongoose": "5.2.6",
     "nanoid": "^1.1.0",
-    "nodemailer": "^4.6.7",
+    "nodemailer": "4.7.0",
     "nodemailer-mailgun-transport": "^1.4.0",
     "nodemon": "^1.18.3",
     "npm": "^6.2.0",
