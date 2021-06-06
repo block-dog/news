@@ -7,7 +7,7 @@
     "apollo-link-state": "0.4.1",
     "apollo-server-koa": "1.4.0",
     "bcrypt": "3.0.0",
-    "dayjs": "1.7.4",
+    "dayjs": "1.10.5",
     "draft-js": "^0.10.5",
     "esm": "3.0.72",
     "ethers": "^4.0.7",
